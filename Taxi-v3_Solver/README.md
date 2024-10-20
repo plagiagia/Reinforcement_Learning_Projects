@@ -2,12 +2,6 @@
 
 Welcome to the **Reinforcement Learning Projects** repository! This repository contains a collection of my projects, experiments, and implementations related to various reinforcement learning (RL) algorithms and environments.
 
-
-<video width="600" controls>
-  <source src="Taxi-v3_Solver/EpisodeRecordings/taxi-agent-training-episode-1000.mp4" type="video/mp4">
-</video>
-
-
 ## Table of Contents
 - [Overview](#overview)
 - [Project List](#project-list)
