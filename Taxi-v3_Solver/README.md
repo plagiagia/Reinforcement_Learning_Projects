@@ -59,7 +59,7 @@ During training, the agent explores the environment using an epsilon-greedy stra
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/Reinforcement_Learning_Projects.git
+   git clone https://github.com/plagiagia/Reinforcement_Learning_Projects.git
    ```
 2. Navigate to the project and install dependencies:
    ```bash
