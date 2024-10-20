@@ -14,3 +14,13 @@ This repository is focused on exploring and implementing core concepts of reinfo
 
 ## Project List
 The following are some of the key projects included in this repository:
+
+
+
+
+## License
+This repository is licensed under the [MIT License](LICENSE).
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
